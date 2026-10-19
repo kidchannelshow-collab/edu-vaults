@@ -1,20 +1,32 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+<h1 align="center">
+<br>
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset=".github/logo-dark.svg">
+	<img width="160" alt="tsx" src=".github/logo-light.svg">
+</picture>
+<br><br>
+<a href="https://npm.im/tsx"><img src="https://badgen.net/npm/v/tsx"></a> <a href="https://npm.im/tsx"><img src="https://badgen.net/npm/dm/tsx"></a>
+</h1>
 
-# Run and deploy your AI Studio app
+<p align="center">
+TypeScript Execute (tsx): The easiest way to run TypeScript in Node.js
+<br><br>
+<a href="https://tsx.hirok.io">Documentation</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://tsx.hirok.io/getting-started">Getting started →</a>
+</p>
 
-This contains everything you need to run your app locally.
+<br>
 
-View your app in AI Studio: https://ai.studio/apps/31559895-9b9d-45e7-89b7-dc3fc41c1512
+<p align="center">
+	<a href="https://github.com/sponsors/privatenumber/sponsorships?tier_id=398771"><img width="412" src="https://raw.githubusercontent.com/privatenumber/sponsors/master/banners/assets/donate.webp"></a>
+	<a href="https://github.com/sponsors/privatenumber/sponsorships?tier_id=416984"><img width="412" src="https://raw.githubusercontent.com/privatenumber/sponsors/master/banners/assets/sponsor.webp"></a>
+</p>
+<p align="center"><sup><i>Already a sponsor?</i> Join the discussion in the <a href="https://github.com/pvtnbr/tsx">Development repo</a>!</sup></p>
 
-## Run Locally
+## Sponsors
 
-**Prerequisites:**  Node.js
+<p align="center">
+	<a href="https://github.com/sponsors/privatenumber">
+		<img src="https://cdn.jsdelivr.net/gh/privatenumber/sponsors/sponsorkit/sponsors.svg">
+	</a>
+</p>
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
